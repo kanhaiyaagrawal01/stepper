@@ -12,7 +12,6 @@ class Stepper
     int direction;
     unsigned long step_delay;
     int number_of_steps;
-    int pin_count;
     int step_number;
     int motor_pin_1;
     int motor_pin_2;
